@@ -20,7 +20,7 @@ Os grafos são compostos por nodes (nós ou funções) e por edge (arestas ou co
 Exemplo:
 
     ```python
-    class tate(TypedDict):
+    class State(TypedDict):
         messages: Annotated[Sequence[BaseMessage], add_messages]
 
     ```
