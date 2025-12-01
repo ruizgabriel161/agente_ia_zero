@@ -1,0 +1,9 @@
+{
+  "$schema": "https://langgra.ph/schema.json",
+  "dependencies": ["."],
+  "graphs": {
+    "grafo": "src/agente_ia_zero/exemples/react_agent/graph.py:buid_graph"
+  },
+  "env": ".env",
+  "python_version": "3.12"
+}
