@@ -1,4 +1,4 @@
-# agente_ia_zero
+# Estudos sobre agente de IA
 ## LangGraph
 O LangGraph estrutura a conexão com a LLM em grafos. Dessa forma é possível definir o fluxo de execução do agente.
  
